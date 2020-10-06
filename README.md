@@ -1,7 +1,7 @@
 # RouletteApi
 Prueba desarrollo backend .Net Masivian
 
-La base de datos fue desarrollada en SQL Server, adjunto en la carpeta ScriptDataBase estara el script de la base de datos de la api.
+La base de datos fue desarrollada en SQL Server, adjunto en la carpeta ScriptDataBase del proyecto estara el script de la base de datos de la api.
 
 Para la invocación de los servicios de las api se haria de la siguiente manera:
 
