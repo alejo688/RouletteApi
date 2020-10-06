@@ -17,7 +17,7 @@ Para la invocación de los servicios de las api se haria de la siguiente manera:
 
 Las ApiKey de pruebas son las siguientes:
 
-ApiKey Crupier: 43fDS45ga67YTc3&ds43
-ApiKey Apostador 1: SD546FS3WQ342
-ApiKey Apostador 2: DFw2213dsad34f
-ApiKey Apostador 3: Tr54aSf26#@fasf
+- ApiKey Crupier: 43fDS45ga67YTc3&ds43
+- ApiKey Apostador 1: SD546FS3WQ342
+- ApiKey Apostador 2: DFw2213dsad34f
+- ApiKey Apostador 3: Tr54aSf26#@fasf
